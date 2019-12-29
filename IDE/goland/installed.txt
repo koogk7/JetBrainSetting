@@ -1,0 +1,4 @@
+Key Promoter X
+com.chrisrm.idea.MaterialThemeUI
+mobi.hsz.idea.gitignore
+name.kropp.intellij.makefile
