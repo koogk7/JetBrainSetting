@@ -7,7 +7,7 @@ sudo python3 get-pip.py
 sudo easy_install pip
 
 # install pipenv
-brew install pipenv
+pip3 install  pipenv
 
 # install mysql and mysqlclient dependency
 # brew install mysql
