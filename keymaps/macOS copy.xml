@@ -1,14 +1,21 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
   <action id="EditorBackwardParagraph">
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
-  <action id="EditorBackwardParagraphWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt j" />
-  </action>
-  <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
-  <action id="EditorForwardParagraphWithSelection">
+  <action id="EditorBackwardParagraphWithSelection">
     <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorForwardParagraphWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
 </keymap>
