@@ -3,7 +3,7 @@
     <property name="created">2020-11-29T15:19:35</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-12-10T19:26:51</property>
+    <property name="modified">2020-12-10T19:30:48</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -253,6 +253,9 @@
         <option name="FOREGROUND" value="fd8273" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="d9c880" />
@@ -324,12 +327,18 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="585859" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="585859" />
-        <option name="ERROR_STRIPE_COLOR" value="585859" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
