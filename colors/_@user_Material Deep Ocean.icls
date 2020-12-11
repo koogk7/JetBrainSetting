@@ -4,7 +4,7 @@
     <property name="created">2020-12-10T00:36:47</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-12-10T20:52:48</property>
+    <property name="modified">2020-12-11T00:46:11</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3007,7 +3007,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="e2eae1" />
+        <option name="FOREGROUND" value="42beea" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
