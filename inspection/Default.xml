@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="15">
+        <list size="26">
           <item index="0" class="java.lang.String" itemvalue="testfixtures" />
           <item index="1" class="java.lang.String" itemvalue="pyflakes" />
           <item index="2" class="java.lang.String" itemvalue="rope" />
@@ -19,6 +19,17 @@
           <item index="12" class="java.lang.String" itemvalue="pylint" />
           <item index="13" class="java.lang.String" itemvalue="entrypoints" />
           <item index="14" class="java.lang.String" itemvalue="isort" />
+          <item index="15" class="java.lang.String" itemvalue="identify" />
+          <item index="16" class="java.lang.String" itemvalue="phonenumbers" />
+          <item index="17" class="java.lang.String" itemvalue="faker" />
+          <item index="18" class="java.lang.String" itemvalue="fakeredis" />
+          <item index="19" class="java.lang.String" itemvalue="certifi" />
+          <item index="20" class="java.lang.String" itemvalue="tenacity" />
+          <item index="21" class="java.lang.String" itemvalue="virtualenv" />
+          <item index="22" class="java.lang.String" itemvalue="babel" />
+          <item index="23" class="java.lang.String" itemvalue="cffi" />
+          <item index="24" class="java.lang.String" itemvalue="humanize" />
+          <item index="25" class="java.lang.String" itemvalue="numpy" />
         </list>
       </value>
     </option>
