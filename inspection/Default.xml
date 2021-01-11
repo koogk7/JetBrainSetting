@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="33">
+        <list size="37">
           <item index="0" class="java.lang.String" itemvalue="testfixtures" />
           <item index="1" class="java.lang.String" itemvalue="pyflakes" />
           <item index="2" class="java.lang.String" itemvalue="rope" />
@@ -38,6 +38,10 @@
           <item index="30" class="java.lang.String" itemvalue="flower" />
           <item index="31" class="java.lang.String" itemvalue="typed-ast" />
           <item index="32" class="java.lang.String" itemvalue="pytz" />
+          <item index="33" class="java.lang.String" itemvalue="pyotp" />
+          <item index="34" class="java.lang.String" itemvalue="django-celery-beat" />
+          <item index="35" class="java.lang.String" itemvalue="mypy" />
+          <item index="36" class="java.lang.String" itemvalue="sortedcontainers" />
         </list>
       </value>
     </option>
