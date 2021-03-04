@@ -3,7 +3,7 @@
     <property name="created">2020-11-29T15:19:35</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2021-03-03T15:15:15</property>
+    <property name="modified">2021-03-04T11:25:02</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
   <colors>
@@ -846,7 +846,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="9b703f" />
@@ -1717,7 +1717,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA">
       <value>
         <option name="FONT_TYPE" value="1" />
