@@ -4,7 +4,7 @@
     <property name="created">2020-12-10T00:36:47</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2021-04-01T14:50:54</property>
+    <property name="modified">2021-04-05T10:48:03</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3076,16 +3076,16 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
     <option name="REGEXP.QUOTE_CHARACTER">
       <value />
     </option>
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="252b39" />
